@@ -97,6 +97,8 @@ Demonstrating knowledge in both Windows and Linux environments
 LINUX VM DEPLOYED
 <img width="2394" height="1035" alt="Screenshot 2025-08-07 154308" src="https://github.com/user-attachments/assets/da300e17-0d62-475f-a359-8cb4d0ab1253" />
 
+
+
 WINDOWS VM DEPLOYED
 <img width="2413" height="1066" alt="Screenshot 2025-08-07 154353" src="https://github.com/user-attachments/assets/b520c9bd-d534-45b6-b8d7-723a4d9f224e" />
 
