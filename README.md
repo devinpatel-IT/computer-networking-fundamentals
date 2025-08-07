@@ -84,6 +84,7 @@ Provided screenshots and .pcap files for proof-of-concept
 <p>
 
 __6.) Use Cases__
+
 Understanding real-world cloud network communication
 
 Practicing network traffic analysis and protocol inspection
