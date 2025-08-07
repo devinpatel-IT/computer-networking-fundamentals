@@ -15,9 +15,9 @@
 <h1>Windows & Linux VM Communication on Azure with 
 Wireshark Network Traffic Analysis)</h1>
 
-Computer networking – Project Overview
+Computer Networking – Project Overview
 
-This project demonstrates the deployment and configuration of two virtual machines — one running Windows Server and the other Linux (Ubuntu) — in Microsoft Azure, with the objective of enabling secure network communication between them. The primary goal is to simulate cross-platform communication within a cloud environment and analyze the network traffic using Wireshark.
+This project demonstrates the deployment and configuration of two virtual machines — one running Windows Server and the other Linux (Ubuntu) — in Microsoft Azure, to enable secure network communication between them. The primary goal is to simulate cross-platform communication within a cloud environment and analyze the network traffic using Wireshark.
 
 By capturing and inspecting packets, I was able to observe key protocols in action (such as ICMP, SSH, RDP, DNS, and HTTP), evaluate latency, and understand how data moves between systems at a deeper level.
 
