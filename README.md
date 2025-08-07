@@ -75,10 +75,9 @@ Documented VM setup steps, firewall rules, and traffic test results
 
 Provided screenshots and .pcap files for proof-of-concept
 
-<p>
-
 <br>
 
+<p>
 
 6.) Use Cases
 Understanding real-world cloud network communication
