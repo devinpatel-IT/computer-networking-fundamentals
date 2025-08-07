@@ -68,7 +68,7 @@ Identified key packet headers, handshakes, and data flow patterns
 
 <br>
 
-
+<p>
 5.) Documentation & Reporting
 
 Documented VM setup steps, firewall rules, and traffic test results
