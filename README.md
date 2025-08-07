@@ -121,5 +121,18 @@ Demonstrating knowledge in both Windows and Linux environments
 <img width="1410" height="608" alt="Screenshot 2025-08-07 160510" src="https://github.com/user-attachments/assets/7dfc7698-15ae-49af-b88e-a552b79ec092" />
 
 
+<h1>Step 3: Use SSH to access Linux VM terminal and observe traffic in Wireshark</h1>
+
+
+<h3>USING SSH TO ACCESS LINUX TERMINAL FROM WINDOWS VM (10.0.0.5)</h3>
+<img width="997" height="763" alt="Screenshot 2025-08-07 160827" src="https://github.com/user-attachments/assets/822bdc8c-3011-405d-b064-07864a513017" />
+<br>
+
+
+<h3>SSH TRAFFIC OBSERVED IN WIRESHARK</h3>
+<img width="1409" height="853" alt="Screenshot 2025-08-07 160844" src="https://github.com/user-attachments/assets/968ba8c5-8313-46c2-b0e3-1095d8ef2c88" />
+
+
+
 
 
