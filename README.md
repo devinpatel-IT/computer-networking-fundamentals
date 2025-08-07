@@ -77,17 +77,8 @@ Identified key packet headers, handshakes, and data flow patterns
 
 <p>
 
-__5.) Documentation & Reporting__
 
-Documented VM setup steps, firewall rules, and traffic test results
-
-Provided screenshots and .pcap files for proof-of-concept
-
-<br>
-
-<p>
-
-__6.) Use Cases__
+__5.) Use Cases__
 
 Understanding real-world cloud network communication
 
