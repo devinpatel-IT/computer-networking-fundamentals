@@ -27,7 +27,7 @@ This project bridges cloud infrastructure, operating system administration, and 
 Deployed and configured virtual machines in Azure
 
 Set up virtual networks (VNets), subnets, and security groups
-</br>
+<br>
 
 2.) Cross-Platform System Administration
 
