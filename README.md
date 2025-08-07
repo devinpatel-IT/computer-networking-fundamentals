@@ -110,7 +110,6 @@ Demonstrating knowledge in both Windows and Linux environments
 
 
 <h1>Step 2: Use Ping command and observe traffic in Wireshark</h1>
-<br>
 
 
 <h3>WINDOWS VM PINGS LINUX VM (10.0.0.5)</h3>
