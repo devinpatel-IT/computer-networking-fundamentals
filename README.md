@@ -95,13 +95,15 @@ Demonstrating knowledge in both Windows and Linux environments
 
 </p>
 
-
-
-
-
-
-
-
-
-
 <br />
+
+<h1>Step 1: Deploy Azure Virtual Machines and Virtual Network</h1>
+
+WINDOWS AND LINUX VM FOR COMMUNICATION
+<img width="2541" height="888" alt="Screenshot 2025-08-07 153542" src="https://github.com/user-attachments/assets/2a20b602-78c2-40b5-a1bb-224d1eb67c51" />
+
+VIRTUAL NETWORK ESTABLISHED
+<img width="2283" height="662" alt="Screenshot 2025-08-07 153628" src="https://github.com/user-attachments/assets/fbdb851e-affc-4d57-9f58-3d2072c8fa5c" />
+
+
+
