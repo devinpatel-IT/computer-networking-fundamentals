@@ -47,6 +47,7 @@ Installed and managed services such as SSH, RDP, and Apache
 
 
 <p>
+
 __3.) Network Security & Access Control__
 
 Created and tested firewall rules using Azure NSGs (Network Security Groups)
@@ -57,6 +58,7 @@ Controlled traffic flow and verified security boundaries
 <br>
 
 <p>
+  
 __4.) Network Traffic Capture & Analysis (Wireshark)__
 
 Captured packets on both VMs
@@ -70,6 +72,7 @@ Identified key packet headers, handshakes, and data flow patterns
 <br>
 
 <p>
+
 __5.) Documentation & Reporting__
 
 Documented VM setup steps, firewall rules, and traffic test results
