@@ -42,18 +42,21 @@ Configured a Windows Server and Ubuntu Linux environment
 Installed and managed services such as SSH, RDP, and Apache
 </p>
 
+<br>
 
 
-
-
-
+<p>
 3.) Network Security & Access Control
 
 Created and tested firewall rules using Azure NSGs (Network Security Groups)
 
 Controlled traffic flow and verified security boundaries
+</p>
 
 
+
+
+<p>
 4.) Network Traffic Capture & Analysis (Wireshark)
 
 Captured packets on both VMs
@@ -62,6 +65,7 @@ Analyzed traffic protocols (TCP/IP, ICMP, DNS, HTTP, etc.)
 
 Identified key packet headers, handshakes, and data flow patterns
 
+</p>
 
 5.) Documentation & Reporting
 
@@ -69,6 +73,7 @@ Documented VM setup steps, firewall rules, and traffic test results
 
 Provided screenshots and .pcap files for proof-of-concept
 
+<p>
 
 6.) Use Cases
 Understanding real-world cloud network communication
@@ -78,6 +83,14 @@ Practicing network traffic analysis and protocol inspection
 Gaining hands-on experience with Azure virtual networking
 
 Demonstrating knowledge in both Windows and Linux environments
+
+</p>
+
+
+
+
+
+
 
 
 
