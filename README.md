@@ -34,13 +34,17 @@ Set up virtual networks (VNets), subnets, and security groups
 
 
 
-
-
+<p>
 2.) Cross-Platform System Administration
 
 Configured a Windows Server and Ubuntu Linux environment
 
 Installed and managed services such as SSH, RDP, and Apache
+</p>
+
+
+
+
 
 
 3.) Network Security & Access Control
