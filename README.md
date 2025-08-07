@@ -2,9 +2,12 @@
 
 <p align="center">
 
-<img width="515" height="400" alt="image" src="https://github.com/user-attachments/assets/16d4a0b1-0d27-4149-8e40-ca57f769a3bf" />
-
-<img width="515" height="400" alt="image" src="https://github.com/user-attachments/assets/09971a7b-dd02-43ed-82c0-c5a9f91e767f" />
+<table>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/16d4a0b1-0d27-4149-8e40-ca57f769a3bf" width="400"/></td>
+    <td><img src="https://github.com/user-attachments/assets/09971a7b-dd02-43ed-82c0-c5a9f91e767f" width="400"/></td>
+  </tr>
+</table>
 
 </p>
 
