@@ -32,7 +32,7 @@ Set up virtual networks (VNets), subnets, and security groups
 
 </p>
 
-
+<br>
 
 <p>
 2.) Cross-Platform System Administration
