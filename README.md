@@ -28,17 +28,20 @@ Deployed and configured virtual machines in Azure
 
 Set up virtual networks (VNets), subnets, and security groups
 
+
 2.) Cross-Platform System Administration
 
 Configured a Windows Server and Ubuntu Linux environment
 
 Installed and managed services such as SSH, RDP, and Apache
 
+
 3.) Network Security & Access Control
 
 Created and tested firewall rules using Azure NSGs (Network Security Groups)
 
 Controlled traffic flow and verified security boundaries
+
 
 4.) Network Traffic Capture & Analysis (Wireshark)
 
@@ -48,11 +51,13 @@ Analyzed traffic protocols (TCP/IP, ICMP, DNS, HTTP, etc.)
 
 Identified key packet headers, handshakes, and data flow patterns
 
+
 5.) Documentation & Reporting
 
 Documented VM setup steps, firewall rules, and traffic test results
 
 Provided screenshots and .pcap files for proof-of-concept
+
 
 6.) Use Cases
 Understanding real-world cloud network communication
