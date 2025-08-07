@@ -1,4 +1,4 @@
-# computer-networking-fundamentals
+# Computer-Networking-Fundamentals
 
 <p align="center">
 
