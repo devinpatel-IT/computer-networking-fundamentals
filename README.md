@@ -105,6 +105,7 @@ VIRTUAL NETWORK ESTABLISHED
 
 <h1>Step 2: Use Ping command and observe traffic in Wireshark</h1>
 
+
 WINDOWS VM PINGS LINUX VM 
 <img width="503" height="378" alt="Screenshot 2025-08-07 160306" src="https://github.com/user-attachments/assets/a7fd9ac1-ae62-4fd5-9909-a54b15619392" />
 
