@@ -24,7 +24,7 @@ This project bridges cloud infrastructure, operating system administration, and 
 
 <p>
 
-1.) Azure Infrastructure Management
+<bold>1.) Azure Infrastructure Management</bold>
 
 Deployed and configured virtual machines in Azure
 
@@ -35,7 +35,7 @@ Set up virtual networks (VNets), subnets, and security groups
 <br>
 
 <p>
-2.) Cross-Platform System Administration
+<bold>2.) Cross-Platform System Administration</bold>
 
 Configured a Windows Server and Ubuntu Linux environment
 
@@ -46,7 +46,7 @@ Installed and managed services such as SSH, RDP, and Apache
 
 
 <p>
-3.) Network Security & Access Control
+<bold>3.) Network Security & Access Control</bold>
 
 Created and tested firewall rules using Azure NSGs (Network Security Groups)
 
@@ -56,7 +56,7 @@ Controlled traffic flow and verified security boundaries
 <br>
 
 <p>
-4.) Network Traffic Capture & Analysis (Wireshark)
+<bold>4.) Network Traffic Capture & Analysis (Wireshark)</bold>
 
 Captured packets on both VMs
 
@@ -69,7 +69,7 @@ Identified key packet headers, handshakes, and data flow patterns
 <br>
 
 <p>
-5.) Documentation & Reporting
+<bold>5.) Documentation & Reporting</bold>
 
 Documented VM setup steps, firewall rules, and traffic test results
 
@@ -79,7 +79,7 @@ Provided screenshots and .pcap files for proof-of-concept
 
 <p>
 
-6.) Use Cases
+<bold>6.) Use Cases</bold>
 Understanding real-world cloud network communication
 
 Practicing network traffic analysis and protocol inspection
