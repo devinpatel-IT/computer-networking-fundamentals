@@ -118,9 +118,7 @@ Demonstrating knowledge in both Windows and Linux environments
 <br>
 
 
-
-
-<h3>ICMP TRAFFIC IN WIRESHARK</h3>
+<h3>ICMP TRAFFIC OBSERVED IN WIRESHARK</h3>
 <img width="1410" height="608" alt="Screenshot 2025-08-07 160510" src="https://github.com/user-attachments/assets/7dfc7698-15ae-49af-b88e-a552b79ec092" />
 
 
