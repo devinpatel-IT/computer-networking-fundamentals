@@ -35,6 +35,7 @@ Set up virtual networks (VNets), subnets, and security groups
 <br>
 
 <p>
+
 __2.) Cross-Platform System Administration__
 
 Configured a Windows Server and Ubuntu Linux environment
