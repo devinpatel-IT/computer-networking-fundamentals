@@ -22,11 +22,15 @@ This project bridges cloud infrastructure, operating system administration, and 
 
 <h1>Skills Demonstrated</h1>
 
+<p>
+
 1.) Azure Infrastructure Management
 
 Deployed and configured virtual machines in Azure
 
 Set up virtual networks (VNets), subnets, and security groups
+
+</p>
 <br>
 
 2.) Cross-Platform System Administration
