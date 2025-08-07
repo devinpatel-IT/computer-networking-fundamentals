@@ -53,8 +53,7 @@ Created and tested firewall rules using Azure NSGs (Network Security Groups)
 Controlled traffic flow and verified security boundaries
 </p>
 
-
-
+<br>
 
 <p>
 4.) Network Traffic Capture & Analysis (Wireshark)
@@ -67,6 +66,9 @@ Identified key packet headers, handshakes, and data flow patterns
 
 </p>
 
+<br>
+
+
 5.) Documentation & Reporting
 
 Documented VM setup steps, firewall rules, and traffic test results
@@ -74,6 +76,9 @@ Documented VM setup steps, firewall rules, and traffic test results
 Provided screenshots and .pcap files for proof-of-concept
 
 <p>
+
+<br>
+
 
 6.) Use Cases
 Understanding real-world cloud network communication
