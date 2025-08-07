@@ -31,7 +31,7 @@ Deployed and configured virtual machines in Azure
 Set up virtual networks (VNets), subnets, and security groups
 
 </p>
-<br>
+
 
 2.) Cross-Platform System Administration
 
