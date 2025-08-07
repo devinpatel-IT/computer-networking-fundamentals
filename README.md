@@ -94,17 +94,17 @@ Demonstrating knowledge in both Windows and Linux environments
 
 <h1>Step 1: Deploy Azure Virtual Machines and Virtual Network</h1>
 
-LINUX VM DEPLOYED
+<h3>LINUX VM DEPLOYED</h3>
 <img width="2394" height="1035" alt="Screenshot 2025-08-07 154308" src="https://github.com/user-attachments/assets/da300e17-0d62-475f-a359-8cb4d0ab1253" />
 <br>
 
 
-WINDOWS VM DEPLOYED
+<h3>WINDOWS VM DEPLOYED</h3>
 <img width="2413" height="1066" alt="Screenshot 2025-08-07 154353" src="https://github.com/user-attachments/assets/b520c9bd-d534-45b6-b8d7-723a4d9f224e" />
 <br>
 
 
-VIRTUAL NETWORK ESTABLISHED
+<h3>VIRTUAL NETWORK ESTABLISHED</h3>
 <img width="2283" height="662" alt="Screenshot 2025-08-07 153628" src="https://github.com/user-attachments/assets/fbdb851e-affc-4d57-9f58-3d2072c8fa5c" />
 <br>
 
@@ -120,7 +120,7 @@ VIRTUAL NETWORK ESTABLISHED
 
 
 
-ICMP TRAFFIC IN WIRESHARK
+<h3>ICMP TRAFFIC IN WIRESHARK</h3>
 <img width="1410" height="608" alt="Screenshot 2025-08-07 160510" src="https://github.com/user-attachments/assets/7dfc7698-15ae-49af-b88e-a552b79ec092" />
 
 
