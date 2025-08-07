@@ -133,6 +133,19 @@ Demonstrating knowledge in both Windows and Linux environments
 <img width="1409" height="853" alt="Screenshot 2025-08-07 160844" src="https://github.com/user-attachments/assets/968ba8c5-8313-46c2-b0e3-1095d8ef2c88" />
 
 
+<h1>Step 4: Use DNS commands and observe traffic in Wireshark</h1>
+
+
+<h3>FIND IP ADDRESS OF MICROSOFT USING NSLOOKUP</h3>
+<img width="1003" height="462" alt="Screenshot 2025-08-07 161325" src="https://github.com/user-attachments/assets/5e70f24e-6017-41cf-b61e-a8fbd4a479ea" />
+<br>
+
+
+<h3>OBSERVE DNS TRAFFIC IN WIRESHARK</h3>
+<img width="1502" height="637" alt="Screenshot 2025-08-07 161407" src="https://github.com/user-attachments/assets/47abe0b9-9e71-4f93-950e-c513f7c0b95e" />
+
+
+
 
 
 
