@@ -24,7 +24,7 @@ This project bridges cloud infrastructure, operating system administration, and 
 
 <p>
 
-<bold>1.) Azure Infrastructure Management</bold>
+__1.) Azure Infrastructure Management__
 
 Deployed and configured virtual machines in Azure
 
