@@ -113,7 +113,7 @@ VIRTUAL NETWORK ESTABLISHED
 <br>
 
 
-WINDOWS VM PINGS LINUX VM (10.0.0.5)
+<h3>WINDOWS VM PINGS LINUX VM (10.0.0.5)</h3>
 <img width="503" height="378" alt="Screenshot 2025-08-07 160306" src="https://github.com/user-attachments/assets/a7fd9ac1-ae62-4fd5-9909-a54b15619392" />
 <br>
 
